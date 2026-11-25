@@ -1,12 +1,17 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Hari;Full+Stack+Web+Developer;Python+%7C+Django+%7C+JavaScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Hari+Lal+Kumar;Full+Stack+Web+Developer;Frontend+%7C+Python+%7C+Django;Building+Real+World+Projects" />
 
 <h3>Full Stack Developer | Frontend & Python Backend</h3>
 
 <p>
-Building modern, responsive websites and web applications 🚀
+Building modern websites, web applications and real-world projects 🚀
 </p>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-2563EB?style=for-the-badge" />
 
 </div>
 
@@ -14,12 +19,32 @@ Building modern, responsive websites and web applications 🚀
 
 ## 👨‍💻 About Me
 
-- 💻 Frontend Developer working with HTML, CSS & JavaScript
-- 🐍 Backend Developer using Python & Django
+```bash
+hari@developer:~$ whoami
+
+Hari Lal Kumar - Full Stack Developer
+
+hari@developer:~$ current_focus
+
+Frontend Development
+Python & Django Backend
+Real World Web Applications
+Data Structures & Algorithms
+
+hari@developer:~$ status
+
+[✓] Building projects
+[✓] Learning new technologies
+[✓] Improving coding skills
+[✓] Open to opportunities
+```
+
+- 💻 Frontend Developer – HTML, CSS & JavaScript
+- 🐍 Backend Development – Python & Django
 - 🎓 B.Tech Computer Science (AI & ML)
-- 🚀 Working on real-world websites and web applications
+- 🚀 Experience building real-world websites
 - 🌱 Currently learning Python, DSA & Full Stack Development
-- 🎯 Goal: Become a skilled Full Stack Developer
+- 🎯 Goal: Become a professional Full Stack Developer
 
 ---
 
@@ -31,46 +56,115 @@ Building modern, responsive websites and web applications 🚀
 
 </div>
 
+### Frontend
+HTML • CSS • JavaScript • Responsive Design
+
+### Backend
+Python • Django
+
+### Programming
+Java • Python
+
+### Tools
+Git • GitHub • VS Code
+
 ---
 
-## 💼 My Projects
-
-| Project | Description |
-|---|---|
-| 🌐 Website Development | Responsive website UI development |
-| 🏢 Sky Vision Consultancy | Consultancy website development |
-| 🤝 Trivera Social Foundation | NGO website development |
-| ⚙️ Django Web Application | Full-stack web application |
-
----
-
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harilalkumar1007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 🌐 Sky Vision Group Consultancy
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harilalkumar1007&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://skyvisiongroupofconsultancy.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Website-Visit%20Project-00D9FF?style=for-the-badge" />
+</a>
+
+Consultancy website with responsive frontend and web pages.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🤝 Trivera Social Foundation
+
+<a href="https://triverasocialfoundations.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Website-Visit%20Project-FF5528?style=for-the-badge" />
+</a>
+
+Social foundation website focused on community support and social impact.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🏍️ E-Ride Care
+
+EV services web application with frontend and backend development, service-related features and user workflows.
+
+**Tech:** HTML • CSS • JavaScript • Python
+
+---
+
+### ⚙️ Django Web Applications
+
+Backend development, admin panels, dynamic pages, database integration and full-stack web application development.
+
+**Tech:** Python • Django • Database • JavaScript
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harilalkumar1007&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harilalkumar1007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harilalkumar1007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harilalkumar1007&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=harilalkumar1007&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harilalkumar1007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harilalkumar1007/harilalkumar1007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## 🌟 My GitHub Status
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+
+<img src="https://komarev.com/ghpvc/?username=harilalkumar1007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -80,30 +174,6 @@ Building modern, responsive websites and web applications 🚀
 
 ### 💡 Code. Learn. Build. Repeat.
 
-![Profile Views](https://komarev.com/ghpvc/?username=harilalkumar1007&color=blueviolet&style=for-the-badge)
+**Building today. Improving every day. 🚀**
 
 </div>
-## 🚀 Featured Projects
-
-### 🌐 Sky Vision Group Consultancy
-- Website development & responsive UI
-- HTML, CSS, JavaScript
-- [Live Website](https://skyvisiongroupofconsultancy.netlify.app/)
-
-### 🤝 Trivera Social Foundation
-- NGO website & social impact platform
-- Responsive frontend development
-- [Live Website](https://triverasocialfoundations.netlify.app/)
-
-### ⚙️ Django Full Stack Project
-- Python & Django backend
-- Database and admin panel
-- Frontend integration
-
-### 💻 More Projects
-- Check all my repositories below
-- Continuously building new projects 🚀
-### 🏍️ E-Ride Care
-- EV services web application
-- Frontend + Backend
-- [View Repository](REPO_LINK)
