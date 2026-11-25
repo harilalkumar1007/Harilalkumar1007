@@ -83,3 +83,27 @@ Building modern, responsive websites and web applications 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=harilalkumar1007&color=blueviolet&style=for-the-badge)
 
 </div>
+## 🚀 Featured Projects
+
+### 🌐 Sky Vision Group Consultancy
+- Website development & responsive UI
+- HTML, CSS, JavaScript
+- [Live Website](https://skyvisiongroupofconsultancy.netlify.app/)
+
+### 🤝 Trivera Social Foundation
+- NGO website & social impact platform
+- Responsive frontend development
+- [Live Website](https://triverasocialfoundations.netlify.app/)
+
+### ⚙️ Django Full Stack Project
+- Python & Django backend
+- Database and admin panel
+- Frontend integration
+
+### 💻 More Projects
+- Check all my repositories below
+- Continuously building new projects 🚀
+### 🏍️ E-Ride Care
+- EV services web application
+- Frontend + Backend
+- [View Repository](REPO_LINK)
