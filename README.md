@@ -137,7 +137,7 @@ flowchart LR
 I'm open to collaboration, internships and job opportunities. Feel free to reach out.
 
 <!-- Apni details yahan replace karein -->
-- 📧 Email: `your-email@example.com`
+- 📧 Email: `your-harilalkumar306@gmail.com.com`
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
 - 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link)
 
